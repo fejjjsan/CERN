@@ -1,3 +1,4 @@
+package com.exercises.first;
 
 import com.exercises.first.DuplicateFinder;
 
